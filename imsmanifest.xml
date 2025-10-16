@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6OlpCUai8Pb_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">RSDP 1 - Make-up (Raw Match KC)</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="RSDP_1_-_Make-up_(Raw_Match_KC)_ORG">
+    <organization identifier="RSDP_1_-_Make-up_(Raw_Match_KC)_ORG">
+      <title>RSDP 1 - Make-up (Raw Match KC)</title>
+      <item identifier="RSDP_1_-_Make_Up_(Raw_Materials)_SCO" isvisible="true" identifierref="__6OlpCUai8Pb_course_id_RES">
+        <title>RSDP 1 - Make-up (Raw Match KC)</title>
+        <adlcp:masteryscore>90</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6OlpCUai8Pb_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5a3fr6rzVgk_80_DX1440_DY1440.jpg" />
+      <file href="mobile/5a3fr6rzVgk_80_DX1440_DY1440_CX1079_CY607.jpg" />
+      <file href="story_content/5ZpscBcFKC7_80_P_136_96_705_1001_DX1440_DY1440.swf" />
+      <file href="mobile/5ZpscBcFKC7_80_P_136_96_705_1001_DX1440_DY1440_CX372_CY528.png" />
+      <file href="story_content/6epjuCNg6Is_80_P_841_73_1001_864_DX1440_DY1440.swf" />
+      <file href="mobile/6epjuCNg6Is_80_P_841_73_1001_864_DX1440_DY1440_CX528_CY456.png" />
+      <file href="story_content/6fukQs8TMcs_80_P_1115_711_523_159_DX1440_DY1440.swf" />
+      <file href="mobile/6fukQs8TMcs_80_P_1115_711_523_159_DX1440_DY1440_CX276_CY84.png" />
+      <file href="story_content/6XO2sNrFoGS_22050_48_0.mp3" />
+      <file href="story_content/60PbezfpbaQ_22050_48_0.mp3" />
+      <file href="story_content/5ZJ9pQl4ijn_80_DX1440_DY1440.jpg" />
+      <file href="mobile/5ZJ9pQl4ijn_80_DX1440_DY1440_CX1079_CY607.jpg" />
+      <file href="story_content/6DMdDoJvFPb_80_P_978_688_273_136_DX1918_DY1918.swf" />
+      <file href="mobile/6DMdDoJvFPb_80_P_978_688_273_136_DX1918_DY1918_CX192_CY96.png" />
+      <file href="story_content/6Xl1bfBqI1e_22050_48_0.mp3" />
+      <file href="story_content/6JCNMddEeno_80_DX1440_DY1440.jpg" />
+      <file href="mobile/6JCNMddEeno_80_DX1440_DY1440_CX1079_CY607.jpg" />
+      <file href="story_content/64GnwH3DRPi_80_P_1763_1012_250_139_DX1440_DY1440.swf" />
+      <file href="mobile/64GnwH3DRPi_80_P_1763_1012_250_139_DX1440_DY1440_CX131_CY73.png" />
+      <file href="story_content/6X8cBQqBhEY_80_P_1763_1024_261_119_DX1440_DY1440.swf" />
+      <file href="mobile/6X8cBQqBhEY_80_P_1763_1024_261_119_DX1440_DY1440_CX138_CY63.png" />
+      <file href="story_content/5jjOkAWBHH8_22050_48_0.mp3" />
+      <file href="story_content/6HQ7yjCRFK5_22050_48_0.mp3" />
+      <file href="story_content/5kt4YgWRL34_80_DX1440_DY1440.jpg" />
+      <file href="mobile/5kt4YgWRL34_80_DX1440_DY1440_CX1079_CY607.jpg" />
+      <file href="story_content/5aqfKr3Zce3_22050_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/FontFactory.swf" />
+      <file href="story_content/fonts.swf" />
+      <file href="story_content/frame.xml" />
+      <file href="story_content/user.js" />
+      <file href="story.swf" />
+      <file href="story_content/frame.swf" />
+      <file href="story_content/slides/6K49zvt6YX6.swf" />
+      <file href="story_content/slides/5ZZntWlggUs.swf" />
+      <file href="story_content/slides/6SIXSXNUoKN.swf" />
+      <file href="story_content/slides/6LfBkk1QBtO.swf" />
+      <file href="story_content/slides/6fbvQEmGKvz.swf" />
+      <file href="story_content/slides/5hGcF07d21X.swf" />
+      <file href="story_content/slides/5UmiNczeQCr.swf" />
+      <file href="story_content/slides/5eZBi6PKPUQ.swf" />
+      <file href="story_content/slides/6faULkhDCjC.swf" />
+      <file href="story_content/slides/6NstsfyHgrc.swf" />
+      <file href="story_content/slides/6fiL4k9gzs5.swf" />
+      <file href="story_content/slides/5Vj7GaV8Qy6.swf" />
+      <file href="story_content/slides/5wjfBM91iNc.swf" />
+      <file href="story_content/slides/5ezsytA97Yl.swf" />
+      <file href="story_content/data.swf" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5eZBi6PKPUQ.js" />
+      <file href="html5/data/js/5ezsytA97Yl.js" />
+      <file href="html5/data/js/5hGcF07d21X.js" />
+      <file href="html5/data/js/5UmiNczeQCr.js" />
+      <file href="html5/data/js/5Vj7GaV8Qy6.js" />
+      <file href="html5/data/js/5wjfBM91iNc.js" />
+      <file href="html5/data/js/5ZZntWlggUs.js" />
+      <file href="html5/data/js/6faULkhDCjC.js" />
+      <file href="html5/data/js/6fbvQEmGKvz.js" />
+      <file href="html5/data/js/6fiL4k9gzs5.js" />
+      <file href="html5/data/js/6K49zvt6YX6.js" />
+      <file href="html5/data/js/6LfBkk1QBtO.js" />
+      <file href="html5/data/js/6NstsfyHgrc.js" />
+      <file href="html5/data/js/6SIXSXNUoKN.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_flash.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="launcher.html" />
+      <file href="story_content/orange_launch_normal.gif" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="index_lms_flash.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
